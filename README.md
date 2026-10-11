@@ -1,32 +1,25 @@
-# Aviso de privacidad de PACTO-T — borrador
+# PACTO-T — Aviso de privacidad del prototipo de investigación
 
-Este repositorio contiene un **borrador para revisión**, no un aviso institucional aprobado. El repositorio está vacío y privado al iniciar este trabajo.
+Este repositorio público documenta el aviso preliminar para las pruebas controladas del proyecto de investigación **PACTO-T**.
 
-## Antes de usar o publicar
+**Responsable declarado del tratamiento de datos en esta etapa:** **Dr. Oscar Gabriel Vizcaíno Monroy**, persona física e investigador a cargo del prototipo. La Universidad Autónoma de Nayarit no se presenta como responsable del tratamiento ni como canal ARCO de PACTO-T.
 
-1. El sitio oficial de la UAN identifica a la Universidad como institución pública y responsable de su aviso general; la UAN debe confirmar que también es responsable de PACTO-T y cuál es el papel de la Unidad Académica de Economía.
-2. El aviso general de la UAN publica un domicilio en Tepic y el correo `transparencia@uan.edu.mx`; confirmar con la Unidad de Transparencia que esos canales aplican a PACTO-T.
-3. El equipo técnico y la institución deben confirmar los datos que realmente recoge cada canal, dónde se alojan, quién puede consultarlos y cuánto tiempo se conservan, y validar el fundamento jurídico vigente para este tratamiento.
-4. Sustituir todos los campos `[POR DEFINIR]` y retirar las instrucciones de borrador.
-5. Obtener aprobación institucional documentada antes de habilitar GitHub Pages, cambiar la visibilidad del repositorio o configurar una URL de producción.
+## Página HTML
 
-**No configures todavía este borrador como `PACTO_T_PRIVACY_NOTICE_URL` de producción.** Una página publicada con campos sin resolver no acredita un aviso institucional válido.
+- [`index.html`](index.html): página de inicio preparada para publicar por GitHub Pages.
+- [`AVISO_PRIVACIDAD_PROTOTIPO.html`](AVISO_PRIVACIDAD_PROTOTIPO.html): copia completa legible como archivo HTML.
+- [`AVISO_PRIVACIDAD_BORRADOR.md`](AVISO_PRIVACIDAD_BORRADOR.md): documento de trabajo histórico, anterior a la identificación del responsable particular; puede contener hipótesis institucionales que **no deben** emplearse como aviso vigente.
 
-No se incluyen código de la aplicación, credenciales, tokens, secretos ni datos personales. No agregues esos elementos a este repositorio.
+## Estado jurídico y operativo
 
-## Archivos
+**Borrador de revisión; no es un aviso legal definitivo.** El proyecto está en etapa de prototipo. Para usar este aviso al recabar datos reales es necesario, como mínimo:
 
-- `AVISO_PRIVACIDAD_BORRADOR.md`: texto de trabajo e instrucciones para la revisión.
+1. Confirmar y publicar domicilio profesional de contacto y un correo funcional para solicitudes de privacidad, autorizados expresamente por el responsable.
+2. Establecer política real y verificable de conservación, bloqueo, eliminación y respaldos.
+3. Inventariar tratamiento de imágenes, audios, mensajes, ubicaciones, proveedores y posibles transferencias.
+4. Verificar obligaciones bajo la [Ley Federal de Protección de Datos Personales en Posesión de los Particulares (DOF, 20/03/2025)](https://www.dof.gob.mx/index.php/index_111.php?day=20&month=03&year=2025) y los requisitos éticos de las pruebas de investigación.
+5. Aprobar la versión final, habilitar GitHub Pages, probar la URL pública bajo HTTPS y **después** actualizar la configuración `PACTO_T_PRIVACY_NOTICE_URL` de la aplicación.
 
-## Fuentes institucionales consultadas
+Un repositorio público **no activa automáticamente GitHub Pages**. El archivo `index.html` está listo para publicarse desde `main` y `/(root)` mediante **Settings → Pages → Deploy from a branch**. La URL prevista, sujeta a que la publicación esté habilitada y verificada, es `https://angelcaido37.github.io/aviso-privacidad/`.
 
-- [Aviso de privacidad general de la UAN](https://www.uan.edu.mx/es/aviso-de-privacidad)
-- [Portal de transparencia de la UAN](https://www.uan.edu.mx/es/transparencia)
-- [Directorio oficial de la UAN](https://www.uan.edu.mx/es/directorio-uan)
-
-Estas páginas contienen información general de la Universidad; no prueban por sí solas que el aviso general cubra PACTO-T ni sustituyen la revisión institucional del tratamiento específico. Este borrador no sustituye la revisión de la institución ni asesoría jurídica.
-
-## Versión HTML para revisión
-
-- `AVISO_PRIVACIDAD_PROTOTIPO.html`: página HTML estática, accesible y adaptable, con información preliminar del tratamiento de datos en el prototipo (WhatsApp, geolocalización, evidencias y seguimiento). **Es un borrador**, no una versión pública aprobada; contiene condiciones de publicación y datos del responsable pendientes de confirmar.
-- El repositorio sigue privado. No se ha habilitado GitHub Pages ni se ha sustituido `PACTO_T_PRIVACY_NOTICE_URL` hasta contar con responsable y contacto confirmados, aprobación aplicable y una URL HTTPS pública verificable.
+No subir credenciales, tokens, bases de datos, reportes ni información personal de participantes al repositorio.
