@@ -67,7 +67,9 @@ Confirmar también los periodos de conservación de adjuntos, respaldos, bitáco
 
 ## 7. Derechos y solicitudes de las personas titulares
 
-El aviso general publicado por la UAN indica que las solicitudes ARCO se presentan ante su Unidad de Transparencia y Archivos y publica `transparencia@uan.edu.mx` como correo para manifestar oposición en ciertos tratamientos. También describe requisitos de identificación y localización de los datos, y señala plazos de respuesta y cumplimiento. **Antes de publicar este borrador, la UAN debe confirmar que el canal, requisitos, plazos y autoridad garante siguen vigentes y aplican a PACTO-T.** La persona titular debe poder identificar el reporte con información suficiente, sin enviar más datos de los necesarios.
+El aviso integral general publicado por la UAN indica que las solicitudes ARCO se presentan ante su Unidad de Transparencia y Archivos. Señala que la solicitud debe incluir nombre y domicilio de la persona titular, acreditación de identidad, área que trata los datos (si se conoce), descripción de los datos y del derecho solicitado, y elementos que faciliten localizar la información. Ese aviso publica un plazo máximo de 20 días para responder y, si procede, hasta 15 días para hacer efectivo el derecho. La UAN también publica `transparencia@uan.edu.mx` para manifestar oposición en ciertos tratamientos.
+
+**Estos son los datos del aviso general institucional consultado, no una validación de que los plazos, requisitos o procedimiento estén actualizados ni de que cubran PACTO-T.** La Unidad de Transparencia de la UAN debe confirmarlos para este tratamiento y comunicar cualquier procedimiento o autoridad garante aplicable. La persona titular debe poder identificar el reporte sin enviar más datos de los necesarios.
 
 **Mecanismo específico de PACTO-T y autoridad garante:** [POR DEFINIR con la UAN].
 
