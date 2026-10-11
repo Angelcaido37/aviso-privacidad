@@ -7,11 +7,11 @@
 
 ## 1. Identidad y domicilio del responsable
 
-La entidad responsable del tratamiento de los datos personales es **[POR DEFINIR: nombre legal completo de la institución o entidad]**, con domicilio en **[POR DEFINIR: domicilio oficial completo]**.
+La entidad responsable propuesta para revisión es la **Universidad Autónoma de Nayarit, Unidad Académica de Economía**. La Universidad debe confirmar por escrito cuál es la persona jurídica responsable del tratamiento y si esta Unidad Académica es responsable, área usuaria o únicamente sede del proyecto. Domicilio oficial: **[POR DEFINIR: domicilio institucional que indique la UAN]**.
 
-PACTO-T es el nombre de la plataforma. Debe indicarse aquí quién determina las finalidades y los medios del tratamiento; el nombre del proyecto, del operador técnico o de la persona desarrolladora no sustituye la identidad legal del responsable.
+PACTO-T es el nombre de la plataforma. Debe indicarse quién determina las finalidades y los medios del tratamiento; el nombre del proyecto, del operador técnico o de la persona desarrolladora no sustituye la identidad legal del responsable.
 
-**Contacto de privacidad:** [POR DEFINIR: unidad o persona responsable, correo institucional, teléfono y domicilio para recibir solicitudes].
+**Contacto propuesto para revisión institucional:** Dr. Oscar G. Vizcaíno Monroy, correo `oscar.vizcaino@uan.edu.mx`, teléfono proporcionado `311 110549` (**confirmar número completo y autorización para publicarlo**). Estos datos no se presentan como canal oficial para derechos de privacidad hasta que la UAN los valide. **Unidad/canal oficial de privacidad:** [POR DEFINIR].
 
 ## 2. Datos personales que podrían tratarse
 
@@ -89,13 +89,13 @@ Las modificaciones al aviso se comunicarán mediante **[POR DEFINIR: sitio insti
 
 ## 11. Contacto
 
-Para dudas sobre este aviso o el tratamiento de datos, contactar a **[POR DEFINIR: unidad responsable, correo institucional, teléfono y domicilio]**.
+Para dudas sobre este aviso o el tratamiento de datos, contactar a **[POR DEFINIR: canal oficial de privacidad confirmado por la UAN]**. Como contacto propuesto para revisión del borrador: Dr. Oscar G. Vizcaíno Monroy, `oscar.vizcaino@uan.edu.mx`, `311 110549` (número por confirmar; no publicar como canal oficial sin autorización institucional).
 
 ---
 
 ## Lista de aprobación antes de publicar
 
-- [ ] Identidad legal, domicilio y contacto institucional confirmados.
+- [ ] UAN confirmó la entidad responsable, la función de la Unidad Académica, el domicilio y el canal oficial de privacidad; se confirmó el formato/uso público del teléfono de contacto.
 - [ ] Naturaleza jurídica del responsable y régimen aplicable confirmados por la institución.
 - [ ] Inventario de datos y finalidades contrastado con el código y el despliegue de producción.
 - [ ] Categorías sensibles evaluadas, incluidos datos incluidos voluntaria o incidentalmente en reportes y adjuntos.
