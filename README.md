@@ -25,3 +25,8 @@ No se incluyen código de la aplicación, credenciales, tokens, secretos ni dato
 - [Directorio oficial de la UAN](https://www.uan.edu.mx/es/directorio-uan)
 
 Estas páginas contienen información general de la Universidad; no prueban por sí solas que el aviso general cubra PACTO-T ni sustituyen la revisión institucional del tratamiento específico. Este borrador no sustituye la revisión de la institución ni asesoría jurídica.
+
+## Versión HTML para revisión
+
+- `AVISO_PRIVACIDAD_PROTOTIPO.html`: página HTML estática, accesible y adaptable, con información preliminar del tratamiento de datos en el prototipo (WhatsApp, geolocalización, evidencias y seguimiento). **Es un borrador**, no una versión pública aprobada; contiene condiciones de publicación y datos del responsable pendientes de confirmar.
+- El repositorio sigue privado. No se ha habilitado GitHub Pages ni se ha sustituido `PACTO_T_PRIVACY_NOTICE_URL` hasta contar con responsable y contacto confirmados, aprobación aplicable y una URL HTTPS pública verificable.
