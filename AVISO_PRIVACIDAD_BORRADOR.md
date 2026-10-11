@@ -7,11 +7,11 @@
 
 ## 1. Identidad y domicilio del responsable
 
-La entidad responsable propuesta para revisión es la **Universidad Autónoma de Nayarit, Unidad Académica de Economía**. La Universidad debe confirmar por escrito cuál es la persona jurídica responsable del tratamiento y si esta Unidad Académica es responsable, área usuaria o únicamente sede del proyecto. Domicilio oficial: **[POR DEFINIR: domicilio institucional que indique la UAN]**.
+La Universidad Autónoma de Nayarit (UAN) se identifica en su aviso institucional como una institución pública de educación media superior y superior y como responsable de los datos personales que recaba en sus mecanismos universitarios. Domicilio publicado: Campus, Ciudad de la Cultura “Amado Nervo”, bulevar Tepic-Xalisco s/n, colonia Centro, C.P. 63000, Tepic, Nayarit.
 
-PACTO-T es el nombre de la plataforma. Debe indicarse quién determina las finalidades y los medios del tratamiento; el nombre del proyecto, del operador técnico o de la persona desarrolladora no sustituye la identidad legal del responsable.
+Para PACTO-T, la UAN debe confirmar que es la responsable del tratamiento y determinar el papel de la Unidad Académica de Economía (responsable, área usuaria o sede del proyecto). El aviso general de la UAN no acredita por sí solo que ya cubra el tratamiento específico de PACTO-T.
 
-**Contacto propuesto para revisión institucional:** Dr. Oscar G. Vizcaíno Monroy, correo `oscar.vizcaino@uan.edu.mx`, teléfono proporcionado `311 110549` (**confirmar número completo y autorización para publicarlo**). Estos datos no se presentan como canal oficial para derechos de privacidad hasta que la UAN los valide. **Unidad/canal oficial de privacidad:** [POR DEFINIR].
+**Canal institucional publicado para privacidad/ARCO:** Unidad de Transparencia y Archivos, `transparencia@uan.edu.mx`. **Conmutador general publicado:** (311) 211 8800; confirmar si existe una extensión o contacto directo para PACTO-T.
 
 ## 2. Datos personales que podrían tratarse
 
@@ -44,9 +44,7 @@ La institución debe distinguir qué finalidades son necesarias para prestar el 
 
 ## 4. Fundamento jurídico y consentimiento
 
-**[POR DEFINIR: la institución debe identificar su naturaleza jurídica, el régimen de protección de datos aplicable, las disposiciones que sustentan cada finalidad y, cuando corresponda, el mecanismo de consentimiento.]**
-
-No publicar este apartado con una referencia legal genérica. Si el responsable es una autoridad o sujeto obligado, debe revisarse el régimen aplicable a datos en posesión de sujetos obligados; si es un particular, debe revisarse el régimen aplicable a particulares. También deben revisarse las normas locales y sectoriales pertinentes.
+El aviso institucional general de la UAN consultado para este borrador enumera, entre otras, disposiciones constitucionales, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, legislación de transparencia y protección de datos de Nayarit y la Ley Orgánica de la UAN. **La Unidad Jurídica y la Unidad de Transparencia de la UAN deben confirmar cuáles disposiciones vigentes facultan específicamente el tratamiento de PACTO-T y qué consentimiento o excepción corresponde.** No se copia aquí una fundamentación como si ya estuviera aprobada para PACTO-T.
 
 ## 5. Transferencias y encargados
 
@@ -69,15 +67,13 @@ Confirmar también los periodos de conservación de adjuntos, respaldos, bitáco
 
 ## 7. Derechos y solicitudes de las personas titulares
 
-La persona titular podrá ejercer los derechos que reconozca el régimen aplicable y presentar solicitudes mediante **[POR DEFINIR: mecanismo, correo o unidad receptora]**. Deben indicarse los requisitos de identificación, la información necesaria para localizar el reporte, los plazos de respuesta y el procedimiento de inconformidad que correspondan.
+El aviso general publicado por la UAN indica que las solicitudes ARCO se presentan ante su Unidad de Transparencia y Archivos y publica `transparencia@uan.edu.mx` como correo para manifestar oposición en ciertos tratamientos. También describe requisitos de identificación y localización de los datos, y señala plazos de respuesta y cumplimiento. **Antes de publicar este borrador, la UAN debe confirmar que el canal, requisitos, plazos y autoridad garante siguen vigentes y aplican a PACTO-T.** La persona titular debe poder identificar el reporte con información suficiente, sin enviar más datos de los necesarios.
 
-**Autoridad garante y medio de inconformidad:** [POR DEFINIR según la naturaleza jurídica del responsable y el marco vigente].
-
-No publicar nombres de autoridades, correos ni plazos sin verificar que siguen vigentes y corresponden al responsable.
+**Mecanismo específico de PACTO-T y autoridad garante:** [POR DEFINIR con la UAN].
 
 ## 8. Revocación u oposición
 
-Cuando proceda conforme al régimen aplicable, la persona podrá solicitar la revocación del consentimiento u oponerse al tratamiento mediante **[POR DEFINIR: canal y procedimiento]**. La institución debe explicar los límites derivados de obligaciones legales, la atención de reportes y la conservación documental.
+Cuando proceda conforme al régimen aplicable, la persona podrá solicitar la revocación del consentimiento u oponerse al tratamiento mediante la Unidad de Transparencia y Archivos de la UAN, a través de `transparencia@uan.edu.mx`, sujeto a confirmación institucional para el tratamiento de PACTO-T. La institución debe explicar los límites derivados de obligaciones legales, la atención de reportes y la conservación documental.
 
 ## 9. Medidas de seguridad
 
@@ -85,17 +81,27 @@ La institución aplicará medidas administrativas, técnicas y físicas acordes 
 
 ## 10. Cambios al aviso
 
-Las modificaciones al aviso se comunicarán mediante **[POR DEFINIR: sitio institucional, aplicación, canal de mensajería u otro medio aprobado]**, indicando fecha de actualización y, cuando sea necesario, el mecanismo para informar cambios relevantes.
+El aviso general de la UAN indica que las modificaciones se comunicarán a través del portal institucional o de otro medio que determine la Universidad. Para PACTO-T, la UAN debe aprobar el medio de publicación y la forma de notificar cambios relevantes; se propone el portal institucional `https://www.uan.edu.mx/es/aviso-de-privacidad`.
 
 ## 11. Contacto
 
-Para dudas sobre este aviso o el tratamiento de datos, contactar a **[POR DEFINIR: canal oficial de privacidad confirmado por la UAN]**. Como contacto propuesto para revisión del borrador: Dr. Oscar G. Vizcaíno Monroy, `oscar.vizcaino@uan.edu.mx`, `311 110549` (número por confirmar; no publicar como canal oficial sin autorización institucional).
+Para dudas y solicitudes de privacidad, contactar a la Unidad de Transparencia y Archivos de la UAN en `transparencia@uan.edu.mx`. Domicilio: Campus, Ciudad de la Cultura “Amado Nervo”, bulevar Tepic-Xalisco s/n, colonia Centro, C.P. 63000, Tepic, Nayarit. El conmutador general publicado es (311) 211 8800. La UAN debe confirmar que estos canales recibirán solicitudes relativas a PACTO-T.
 
 ---
 
+## Fuentes institucionales consultadas
+
+Datos institucionales y procedimientos generales consultados en el sitio oficial de la UAN el 10 de octubre de 2026:
+
+- [Aviso de privacidad de la UAN](https://www.uan.edu.mx/es/aviso-de-privacidad)
+- [Portal de transparencia de la UAN](https://www.uan.edu.mx/es/transparencia)
+- [Directorio oficial de la UAN](https://www.uan.edu.mx/es/directorio-uan)
+
+Estas fuentes describen información institucional general; la UAN debe validar su vigencia y su aplicación concreta a PACTO-T.
+
 ## Lista de aprobación antes de publicar
 
-- [ ] UAN confirmó la entidad responsable, la función de la Unidad Académica, el domicilio y el canal oficial de privacidad; se confirmó el formato/uso público del teléfono de contacto.
+- [ ] UAN confirmó que será responsable del tratamiento de PACTO-T, precisó el papel de la Unidad Académica de Economía y validó que el domicilio, correo y conmutador institucional publicados aplican a este aviso.
 - [ ] Naturaleza jurídica del responsable y régimen aplicable confirmados por la institución.
 - [ ] Inventario de datos y finalidades contrastado con el código y el despliegue de producción.
 - [ ] Categorías sensibles evaluadas, incluidos datos incluidos voluntaria o incidentalmente en reportes y adjuntos.
